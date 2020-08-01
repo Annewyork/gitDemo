@@ -6,6 +6,6 @@ public class HappyB20 {
    //always try
         System.out.println("if failure try again");
 
-        //Allahu Akbar
+
     }
 }
