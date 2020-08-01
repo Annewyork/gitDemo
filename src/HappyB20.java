@@ -1,7 +1,7 @@
 public class HappyB20 {
     public static void main(String[] args) {
 
-        System.out.println("i try every day");
+   //always try
         System.out.println("if failure try again");
     }
 }
